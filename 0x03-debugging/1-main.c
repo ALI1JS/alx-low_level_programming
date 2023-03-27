@@ -1,10 +1,9 @@
 #include <stdio.h>
 
 /**
-* main - this function make infinit loop and print two statement
-* in start of loop and the second if the void infinit loop
-* Description - this function make infinit loop
-* @param i is a variable to check loop
+* main - This function make infinit loop and print two statement.
+* Description  This function make infinit loop.
+* @void:no paramter and print this charachter :'\\o/\n'.
 * Return: 0
 */
 
