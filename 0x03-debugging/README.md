@@ -1,0 +1,1 @@
+this project about depugging process , how to find the error or bugs and fixe it and how to use the best tool(debugger) like gdb or lldb to find the bugs and fix it and alse how to use the best technuique and strategue to find and fixe it
