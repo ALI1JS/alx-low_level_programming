@@ -1,7 +1,8 @@
 #include "main.h"
 
-/***
- * _strcat - function to concatinae two string
+/**
+ * _strcat-Function to concatinae two string each twogether
+ * Desription- This function to concatinate two string
  * @dest: The first parameter
  * @src: The sscond parameter
  * Return: dest
@@ -18,7 +19,7 @@ i++;
 }
 j = 0;
 
-while ( src[j] != '\0')
+while (src[j] != '\0')
 {
 dest[i] = src[j];
 i++;
